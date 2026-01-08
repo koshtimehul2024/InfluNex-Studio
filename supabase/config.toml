@@ -1,0 +1,10 @@
+project_id = "zthotmtoauhhxbcijuqn"
+
+[functions.submit-contact]
+verify_jwt = false
+
+[functions.admin-user-management]
+verify_jwt = false
+
+[functions.secure-media-upload]
+verify_jwt = false
